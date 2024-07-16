@@ -5,7 +5,7 @@
 -Yeungnam Uniersity, information & comunication engineering
 
 ## Links
--E-mail sssin10@naver.com
+-E-mail sssin10@naver.com \n
 -Instargram sso_bini
 
 <h3 align="center">A passionate frontend developer from India</h3>
