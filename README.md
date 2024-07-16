@@ -1,8 +1,8 @@
 ### Introdution
--Hello. My nsmr od Sobin Jeong
+-Hello. My name is Sobin Jeong
 
 ## Carrer
--YEungnam Uniersity, information & comunication
+-Yeungnam Uniersity, information & comunication
 
 ## Links
 -E-mail sssin10@naver.com
