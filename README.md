@@ -1,5 +1,5 @@
 ### Introdution
--Hello. My name is Sobin Jeong
+-Hello. My name is Sobin Jeong. I'm studying c language and Python.
 
 ## Carrer
 -Yeungnam Uniersity, information & comunication engineering
