@@ -2,7 +2,7 @@
 -Hello. My name is Sobin Jeong
 
 ## Carrer
--Yeungnam Uniersity, information & comunication
+-Yeungnam Uniersity, information & comunication engineering
 
 ## Links
 -E-mail sssin10@naver.com
